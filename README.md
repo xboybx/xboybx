@@ -339,12 +339,7 @@ I build production-ready applications with a deep focus on &nbsp;**AI integratio
 
 <div align="center">
 
-### ✦ &nbsp; Contribution Snake
 
-![snake dark](https://raw.githubusercontent.com/xboybx/xboybx/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-![snake light](https://raw.githubusercontent.com/xboybx/xboybx/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-
-</div>
 
 <br>
 
