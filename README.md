@@ -1,6 +1,14 @@
-<!-- Header Wave -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Jaswanth&fontSize=62&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20Full%20Stack%20Engineer&descSize=20&descAlignY=55&descColor=70a5fd" width="100%">
+
+# Jaswanth
+
+### AI Full Stack Engineer
+
+<p>
+Building AI systems that ship.<br>
+LLM Pipelines • RAG Systems • Real-time Apps • MERN Stack
+</p>
+
 </div>
 
 <!-- Typing SVG -->
@@ -53,36 +61,68 @@ const jaswanth = {
 
 ## 🛠️ Tech Stack
 
-<div align="center">
+<table align="center">
+<tr>
+<td align="center" width="33%">
 
-**Languages & Runtimes**
+### Languages
 
 [![Skills](https://skillicons.dev/icons?i=js,ts,python,nodejs&theme=dark)](https://skillicons.dev)
 
-**Frontend**
+</td>
+
+<td align="center" width="33%">
+
+### Frontend
 
 [![Skills](https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css&theme=dark)](https://skillicons.dev)
 
-**Backend & Databases**
+</td>
+
+<td align="center" width="33%">
+
+### Backend
 
 [![Skills](https://skillicons.dev/icons?i=express,mongodb,postgres,mysql,redis&theme=dark)](https://skillicons.dev)
 
-**AI / ML**
+</td>
+</tr>
 
-[![Skills](https://skillicons.dev/icons?i=openai&theme=dark)](https://skillicons.dev)&nbsp;
-![LangChain](https://img.shields.io/badge/LangChain-%231a1b27?style=flat-square&logoColor=70a5fd&logo=chainlink&color=1a1b27&labelColor=1a1b27)&nbsp;
-![RAG](https://img.shields.io/badge/RAG_Pipelines-%231a1b27?style=flat-square&color=1a1b27)&nbsp;
-![ChromaDB](https://img.shields.io/badge/ChromaDB-%231a1b27?style=flat-square&color=1a1b27)
+<tr>
+<td align="center">
 
-**Cloud & DevOps**
+### AI / ML
 
-[![Skills](https://skillicons.dev/icons?i=aws,docker,vercel,git,github,vscode&theme=dark)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=python&theme=dark)](https://skillicons.dev)
 
-**Real-time**
+<img src="https://img.shields.io/badge/OpenAI-1a1b27?style=for-the-badge&logo=openai&logoColor=white">
 
-[![Skills](https://skillicons.dev/icons?i=socketio&theme=dark)](https://skillicons.dev)&nbsp;
-![WebRTC](https://img.shields.io/badge/WebRTC-%231a1b27?style=flat-square&logo=webrtc&logoColor=38bdae&color=1a1b27)&nbsp;
-![WebSocket](https://img.shields.io/badge/WebSocket-%231a1b27?style=flat-square&logo=socket.io&logoColor=38bdae&color=1a1b27)
+<img src="https://img.shields.io/badge/LangChain-1a1b27?style=for-the-badge&logoColor=70a5fd">
+
+<img src="https://img.shields.io/badge/RAG-1a1b27?style=for-the-badge">
+
+</td>
+
+<td align="center">
+
+### Cloud & DevOps
+
+[![Skills](https://skillicons.dev/icons?i=aws,docker,vercel,git,github&theme=dark)](https://skillicons.dev)
+
+</td>
+
+<td align="center">
+
+### Real-Time
+
+
+<img src="https://img.shields.io/badge/WebRTC-1a1b27?style=for-the-badge&logo=webrtc">
+
+<img src="https://img.shields.io/badge/WebSocket-1a1b27?style=for-the-badge&logo=socket.io">
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -90,31 +130,17 @@ const jaswanth = {
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<div align="center">>
 
-<img src="https://github-readme-stats.vercel.app/api?username=xboybx&theme=tokyonight&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" width="48%" alt="GitHub Stats">
+<img src="https://github-readme-stats.vercel.app/api?username=xboybx&theme=tokyonight&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" width="48%" alt=""/>
 &nbsp;
 <img src="https://streak-stats.demolab.com/?user=xboybx&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Streak">
 
 </div>
 
-<br>
 
-<div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xboybx&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" width="48%" alt="Top Languages">
 
-</div>
-
----
-
-## 🏆 Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=xboybx&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophies">
-</div>
-
----
 
 ## 🚀 Featured Projects
 
@@ -178,10 +204,7 @@ Multi-language compiler with sandboxed execution, burst scaling via AWS Lambda, 
 
 ---
 
-<!-- Footer Wave -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%">
-</div>
+
 
 <div align="center">
   <i>Building systems that are useful, scalable, and worth shipping.</i>
