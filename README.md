@@ -1,360 +1,190 @@
-<!-- ////////////////////////////////////////////////////////////////// -->
-<!--              LIQUID GLASS — HEADER                              -->
-<!-- ////////////////////////////////////////////////////////////////// -->
-
+<!-- Header Wave -->
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Jaswanth&fontSize=62&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20Full%20Stack%20Engineer&descSize=20&descAlignY=55&descColor=70a5fd" width="100%">
+</div>
 
-![header](https://capsule-render.vercel.app/api?type=venom&color=0:0A0A1A,25:1E0A3C,50:0D1B4B,75:0A2A3C,100:0A0A1A&height=280&section=header&text=Jaswanth&fontSize=80&fontColor=E0F2FE&fontAlignY=40&animation=fadeIn&desc=AI%20Full%20Stack%20Engineer&descSize=18&descAlignY=62&descAlign=50&descFontColor=BAE6FD&stroke=7DD3FC&strokeWidth=1)
-
-<br>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=SF+Pro+Display&weight=300&size=17&pause=1200&color=BAE6FD&center=true&vCenter=true&width=680&lines=Crafting+AI-powered+full-stack+experiences;LLM+%26+RAG+pipelines+%E2%80%94+from+idea+to+production;Real-time+systems+with+Socket.io+%26+WebRTC;MERN+%C2%B7+OpenAI+%C2%B7+LangChain+%C2%B7+AWS)](https://git.io/typing-svg)
-
-<br>
-
-<!-- glass pill links -->
-[![Portfolio](https://img.shields.io/badge/Portfolio-0D1B4B?style=for-the-badge&logo=safari&logoColor=BAE6FD)](https://www.jjaswanth.in)&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D2137?style=for-the-badge&logo=linkedin&logoColor=60A5FA)](https://www.linkedin.com/in/jjaswanth)&nbsp;
-[![Email](https://img.shields.io/badge/Email-1A0D37?style=for-the-badge&logo=mail.ru&logoColor=C084FC)](mailto:j.jaswanth@icloud.com)&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-0A0A1A?style=for-the-badge&logo=github&logoColor=E0F2FE)](https://github.com/xboybx)
-
-<br>
-
-![Views](https://komarev.com/ghpvc/?username=xboybx&label=Profile+Views&color=0D1B4B&style=flat-square&labelColor=0A0A1A)
-
+<!-- Typing SVG -->
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=70A5FD&center=true&vCenter=true&random=false&width=600&height=60&lines=Building+AI+systems+that+ship.;LLM+%26+RAG+Pipelines+%E2%86%92+Production;Real-time+%C2%B7+MERN+%C2%B7+OpenAI+%C2%B7+LangChain;Open+to+new+opportunities+%E2%9C%A6" alt="Typing SVG">
+  </a>
 </div>
 
 <br>
 
-<!-- glass divider -->
-![divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,5,15,24&height=2&section=header)
+<!-- Social Badges -->
+<div align="center">
+  <a href="https://www.jjaswanth.in">
+    <img src="https://img.shields.io/badge/Portfolio-%231a1b27.svg?style=for-the-badge&logo=safari&logoColor=70a5fd" alt="Portfolio">
+  </a>
+  &nbsp;
+  <a href="https://linkedin.com/in/jjaswanth">
+    <img src="https://img.shields.io/badge/LinkedIn-%231a1b27.svg?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn">
+  </a>
+  &nbsp;
+  <a href="https://github.com/xboybx">
+    <img src="https://img.shields.io/badge/GitHub-%231a1b27.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  &nbsp;
+  <a href="mailto:j.jaswanth@icloud.com">
+    <img src="https://img.shields.io/badge/Email-%231a1b27.svg?style=for-the-badge&logo=apple&logoColor=bf91f3" alt="Email">
+  </a>
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=xboybx&style=for-the-badge&color=1a1b27&label=PROFILE+VIEWS" alt="Profile Views">
+</div>
 
 <br>
 
-<!-- ////////////////////////////////////////////////////////////////// -->
-<!--              ABOUT — FROSTED GLASS CARD                          -->
-<!-- ////////////////////////////////////////////////////////////////// -->
+---
 
-<table border="0" cellpadding="16" width="100%">
-<tr>
-<td valign="top" width="54%">
+## ⚡ About Me
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E0A3C,100:0D1B4B&height=2&section=header" width="100%"/>
-
-### ✦ &nbsp; About Me
-
-I build production-ready applications with a deep focus on &nbsp;**AI integration**, &nbsp;**clean architecture**, &nbsp;and &nbsp;**scalable full-stack systems**.
-
-```
-  Name     ·  Jaswanth
-  Role     ·  AI Full Stack Engineer
-  Degree   ·  B.Tech Graduate
-  Focus    ·  LLM · RAG · MERN · Real-time
-  Status   ·  Open to opportunities ✦
+```typescript
+const jaswanth = {
+  role     : "AI Full Stack Engineer",
+  location : "Hyderabad, India 🇮🇳",
+  focus    : ["LLM Pipelines", "RAG Systems", "Real-time Apps", "MERN Stack"],
+  building : "Production-grade AI systems that are useful and scalable",
+  status   : "Open to opportunities ✦",
+};
 ```
 
-&nbsp;**Currently shipping →**
+---
 
-- &nbsp;End-to-end RAG & LLM pipelines
-- &nbsp;Real-time collaborative tools
-- &nbsp;AI-powered developer experiences
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1B4B,100:1E0A3C&height=2&section=footer" width="100%"/>
-
-</td>
-<td valign="top" width="46%" align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E0A3C,100:0D1B4B&height=2&section=header" width="100%"/>
-
-### ✦ &nbsp; Streak
-
-[![streak](https://streak-stats.demolab.com?user=xboybx&theme=tokyonight&hide_border=true&background=0A0A1A&ring=7DD3FC&fire=C084FC&currStreakLabel=BAE6FD&sideLabels=60A5FA&dates=475569)](https://git.io/streak-stats)
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1B4B,100:1E0A3C&height=2&section=footer" width="100%"/>
-
-</td>
-</tr>
-</table>
-
-<br>
-
-<!-- ////////////////////////////////////////////////////////////////// -->
-<!--              TROPHIES                                             -->
-<!-- ////////////////////////////////////////////////////////////////// -->
+## 🛠️ Tech Stack
 
 <div align="center">
 
-### ✦ &nbsp; Achievements
+**Languages & Runtimes**
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=xboybx&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
-<br>
-
-![divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,5,15,24&height=2&section=header)
-
-<br>
-
-<!-- ////////////////////////////////////////////////////////////////// -->
-<!--              TECH STACK — GLASS GRID                             -->
-<!-- ////////////////////////////////////////////////////////////////// -->
-
-<div align="center">
-
-### ✦ &nbsp; Tech Stack
-
-</div>
-
-<br>
-
-<table border="0" align="center" width="96%">
-<tr>
-<td align="center" width="20%">
-
-**Languages**
-
-![JS](https://img.shields.io/badge/JavaScript-0D1B4B?style=for-the-badge&logo=javascript&logoColor=FDE68A)
-![TS](https://img.shields.io/badge/TypeScript-0D2137?style=for-the-badge&logo=typescript&logoColor=60A5FA)
-![PY](https://img.shields.io/badge/Python-0D1B2A?style=for-the-badge&logo=python&logoColor=BAE6FD)
-
-</td>
-<td align="center" width="20%">
+[![Skills](https://skillicons.dev/icons?i=js,ts,python,nodejs&theme=dark)](https://skillicons.dev)
 
 **Frontend**
 
-![React](https://img.shields.io/badge/React-0A1628?style=for-the-badge&logo=react&logoColor=7DD3FC)
-![Next](https://img.shields.io/badge/Next.js-0A0A1A?style=for-the-badge&logo=next.js&logoColor=E0F2FE)
-![Tailwind](https://img.shields.io/badge/Tailwind-0D2137?style=for-the-badge&logo=tailwind-css&logoColor=BAE6FD)
+[![Skills](https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css&theme=dark)](https://skillicons.dev)
 
-</td>
-<td align="center" width="20%">
+**Backend & Databases**
 
-**Backend**
-
-![Node](https://img.shields.io/badge/Node.js-0A1A14?style=for-the-badge&logo=node.js&logoColor=86EFAC)
-![Express](https://img.shields.io/badge/Express-0A0A1A?style=for-the-badge&logo=express&logoColor=E0F2FE)
-![Socket](https://img.shields.io/badge/Socket.io-0A0A14?style=for-the-badge&logo=socket.io&logoColor=A5B4FC)
-
-</td>
-<td align="center" width="20%">
-
-**Database**
-
-![Mongo](https://img.shields.io/badge/MongoDB-0A1A0A?style=for-the-badge&logo=mongodb&logoColor=86EFAC)
-![Postgres](https://img.shields.io/badge/PostgreSQL-0A1228?style=for-the-badge&logo=postgresql&logoColor=93C5FD)
-![MySQL](https://img.shields.io/badge/MySQL-0A1228?style=for-the-badge&logo=mysql&logoColor=BAE6FD)
-
-</td>
-<td align="center" width="20%">
+[![Skills](https://skillicons.dev/icons?i=express,mongodb,postgres,mysql,redis&theme=dark)](https://skillicons.dev)
 
 **AI / ML**
 
-![OpenAI](https://img.shields.io/badge/OpenAI-160D28?style=for-the-badge&logo=openai&logoColor=C084FC)
-![LangChain](https://img.shields.io/badge/LangChain-0D1B2A?style=for-the-badge&logoColor=BAE6FD)
-![RAG](https://img.shields.io/badge/RAG-1E0A3C?style=for-the-badge&logoColor=DDD6FE)
+[![Skills](https://skillicons.dev/icons?i=openai&theme=dark)](https://skillicons.dev)&nbsp;
+![LangChain](https://img.shields.io/badge/LangChain-%231a1b27?style=flat-square&logoColor=70a5fd&logo=chainlink&color=1a1b27&labelColor=1a1b27)&nbsp;
+![RAG](https://img.shields.io/badge/RAG_Pipelines-%231a1b27?style=flat-square&color=1a1b27)&nbsp;
+![ChromaDB](https://img.shields.io/badge/ChromaDB-%231a1b27?style=flat-square&color=1a1b27)
+
+**Cloud & DevOps**
+
+[![Skills](https://skillicons.dev/icons?i=aws,docker,vercel,git,github,vscode&theme=dark)](https://skillicons.dev)
+
+**Real-time**
+
+[![Skills](https://skillicons.dev/icons?i=socketio&theme=dark)](https://skillicons.dev)&nbsp;
+![WebRTC](https://img.shields.io/badge/WebRTC-%231a1b27?style=flat-square&logo=webrtc&logoColor=38bdae&color=1a1b27)&nbsp;
+![WebSocket](https://img.shields.io/badge/WebSocket-%231a1b27?style=flat-square&logo=socket.io&logoColor=38bdae&color=1a1b27)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=xboybx&theme=tokyonight&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" width="48%" alt="GitHub Stats">
+&nbsp;
+<img src="https://streak-stats.demolab.com/?user=xboybx&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Streak">
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xboybx&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" width="48%" alt="Top Languages">
+
+</div>
+
+---
+
+## 🏆 Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=xboybx&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophies">
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🔮 IRAG
+**Intelligent RAG Chatbot**
+
+End-to-end RAG system with document ingestion, semantic chunking, embedding retrieval, and multi-modal OpenAI tool calls — web search, image understanding, code execution.
+
+`React` `Node` `LangChain` `GPT-4` `ChromaDB`
+
+</td>
+<td width="50%">
+
+### 🌐 CollabCode
+**AI Real-Time Collaborative IDE**
+
+Multiplayer coding environment with live cursor tracking, room-based WebSocket sessions, and an AI panel for contextual suggestions and inline debugging.
+
+`React` `Socket.io` `GPT-4` `Monaco`
 
 </td>
 </tr>
 <tr>
-<td align="center">
+<td width="50%">
 
-**Cloud**
+### ⚡ Tounge
+**AI Web Compiler & Code Practice**
 
-![AWS](https://img.shields.io/badge/AWS-1A1228?style=for-the-badge&logo=amazon-aws&logoColor=FDE68A)
-![Vercel](https://img.shields.io/badge/Vercel-0A0A1A?style=for-the-badge&logo=vercel&logoColor=E0F2FE)
-![Render](https://img.shields.io/badge/Render-0A1A1A?style=for-the-badge&logo=render&logoColor=86EFAC)
+Multi-language compiler with sandboxed execution, burst scaling via AWS Lambda, and an AI assistant for debugging and complexity analysis.
 
-</td>
-<td align="center">
-
-**Real-time**
-
-![WebRTC](https://img.shields.io/badge/WebRTC-0A1228?style=for-the-badge&logoColor=93C5FD)
-![WS](https://img.shields.io/badge/WebSocket-0D1B4B?style=for-the-badge&logoColor=BAE6FD)
-![Redis](https://img.shields.io/badge/Redis-1A0A0A?style=for-the-badge&logo=redis&logoColor=FCA5A5)
+`Node` `Judge0` `OpenAI` `AWS Lambda`
 
 </td>
-<td align="center">
+<td width="50%">
 
-**Tools**
+### 📈 At a Glance
 
-![Git](https://img.shields.io/badge/Git-1A0D0A?style=for-the-badge&logo=git&logoColor=FCA5A5)
-![Docker](https://img.shields.io/badge/Docker-0A1228?style=for-the-badge&logo=docker&logoColor=7DD3FC)
-![Postman](https://img.shields.io/badge/Postman-1A1228?style=for-the-badge&logo=postman&logoColor=FDBA74)
-
-</td>
-<td align="center">
-
-**IDE**
-
-![VSCode](https://img.shields.io/badge/VS_Code-0D1B4B?style=for-the-badge&logo=visual-studio-code&logoColor=60A5FA)
-![Cursor](https://img.shields.io/badge/Cursor-0A0A1A?style=for-the-badge&logoColor=C084FC)
-
-</td>
-<td align="center">
-
-**Styling**
-
-![CSS](https://img.shields.io/badge/CSS3-0D1B4B?style=for-the-badge&logo=css3&logoColor=93C5FD)
-![Framer](https://img.shields.io/badge/Framer-160D28?style=for-the-badge&logo=framer&logoColor=C084FC)
+| | |
+|--|--|
+| 🔷 | **8+** production-ready full-stack apps |
+| 🔷 | **RAG · LLM · Real-time · Compiler** workflows |
+| 🔷 | Agile delivery, code reviews, team leadership |
+| 🔷 | Frontend → Backend → Database → Cloud |
+| 🔷 | Open to new opportunities |
 
 </td>
 </tr>
 </table>
 
-<br>
+---
 
-![divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,5,15,24&height=2&section=header)
-
-<br>
-
-<!-- ////////////////////////////////////////////////////////////////// -->
-<!--              PROJECTS — GLASS CARDS                              -->
-<!-- ////////////////////////////////////////////////////////////////// -->
+## 📈 Activity Graph
 
 <div align="center">
-
-### ✦ &nbsp; Featured Projects
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=xboybx&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true&area_color=70a5fd20" width="100%" alt="Activity Graph">
 </div>
 
-<br>
+---
 
-<details>
-<summary>&nbsp; 🔮 &nbsp; <b>IRAG</b> &nbsp;—&nbsp; Intelligent RAG Chatbot &nbsp; &nbsp; <code>React · Node · LangChain · GPT-4 · ChromaDB</code></summary>
-
-<br>
-
-> *An end-to-end intelligent retrieval-augmented generation system built for production.*
-
-| | |
-|---|---|
-| **Pipeline** | Document ingestion → chunking → embeddings → semantic retrieval |
-| **AI Layer** | Multi-modal OpenAI tool calls — web search, image understanding, code execution |
-| **Deployment** | Low-latency production deployment on Render |
-
-✦ &nbsp; **Why it stands out** — Practical AI engineering, retrieval design, and modern LLM integration at production scale.
-
-<br>
-
-</details>
-
-<br>
-
-<details>
-<summary>&nbsp; 🌐 &nbsp; <b>CollabCode</b> &nbsp;—&nbsp; AI Real-Time Collaborative IDE &nbsp; &nbsp; <code>React · Socket.io · GPT-4 · Monaco</code></summary>
-
-<br>
-
-> *A multiplayer coding environment where AI is a first-class collaborator.*
-
-| | |
-|---|---|
-| **Real-time** | Live cursor tracking, room-based sessions, instant sync via WebSocket |
-| **AI Panel** | Contextual suggestions, debugging help, and inline code explanations |
-| **Architecture** | Clean WebSocket room management with strong collaboration UX |
-
-✦ &nbsp; **Why it stands out** — Real-time systems + developer tooling + AI in one polished product.
-
-<br>
-
-</details>
-
-<br>
-
-<details>
-<summary>&nbsp; ⚡ &nbsp; <b>Tounge</b> &nbsp;—&nbsp; AI Web Compiler & Code Practice Platform &nbsp; &nbsp; <code>Node · Judge0 · OpenAI · Lambda</code></summary>
-
-<br>
-
-> *A multi-language compiler with an AI assistant built for interview practice at scale.*
-
-| | |
-|---|---|
-| **Execution** | Sandboxed multi-language compilation with scalable burst handling via AWS Lambda |
-| **AI Layer** | Debugging assistant + algorithmic complexity analyser |
-| **Use case** | Interview prep, code learning, backend orchestration showcase |
-
-<br>
-
-</details>
-
-<br>
-
-![divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,5,15,24&height=2&section=header)
-
-<br>
-
-<!-- ////////////////////////////////////////////////////////////////// -->
-<!--              HIGHLIGHTS                                           -->
-<!-- ////////////////////////////////////////////////////////////////// -->
-
+<!-- Footer Wave -->
 <div align="center">
-
-### ✦ &nbsp; At a Glance
-
-| &nbsp; | &nbsp; |
-|:---:|:---|
-| 🔷 | Built **8+ production-ready** full-stack applications |
-| 🔷 | Delivered **RAG · AI assistant · real-time collab · compiler** workflows |
-| 🔷 | Experienced in **Agile delivery, code reviews, and team leadership** |
-| 🔷 | Ships across **frontend → backend → database → deployment** |
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%">
 </div>
 
-<br>
-
-![divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,5,15,24&height=2&section=header)
-
-<br>
-
-<!-- ////////////////////////////////////////////////////////////////// -->
-<!--              GITHUB INSIGHTS                                      -->
-<!-- ////////////////////////////////////////////////////////////////// -->
-
 <div align="center">
-
-### ✦ &nbsp; GitHub Insights
-
-![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=xboybx&bg_color=0A0A1A&color=BAE6FD&line=7DD3FC&point=C084FC&area=true&hide_border=true&area_color=7DD3FC15)
-
-<br>
-
-<img height="158" src="https://streak-stats.demolab.com?user=xboybx&theme=tokyonight&hide_border=true&background=0A0A1A&ring=7DD3FC&fire=C084FC&currStreakLabel=BAE6FD&sideLabels=60A5FA&dates=475569" />
-&nbsp;&nbsp;
-<img height="158" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xboybx&layout=compact&hide_border=true&bg_color=0A0A1A&title_color=7DD3FC&text_color=BAE6FD&icon_color=C084FC" />
-
-</div>
-
-<br>
-
-![divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,5,15,24&height=2&section=header)
-
-<br>
-
-<!-- ////////////////////////////////////////////////////////////////// -->
-<!--   SNAKE — setup: https://github.com/Platane/snk                  -->
-<!-- ////////////////////////////////////////////////////////////////// -->
-
-<div align="center">
-
-
-
-<br>
-
-<!-- ////////////////////////////////////////////////////////////////// -->
-<!--              FOOTER — GLASS GRADIENT                             -->
-<!-- ////////////////////////////////////////////////////////////////// -->
-
-<div align="center">
-
-<br>
-
-*Building systems that are useful, scalable, and worth shipping.*
-
-<br>
-
-![footer](https://capsule-render.vercel.app/api?type=venom&color=0:0A0A1A,25:0D1B4B,50:1E0A3C,75:0A2A3C,100:0A0A1A&height=120&section=footer&fontColor=BAE6FD&fontSize=14&text=xboybx%20%C2%B7%20github&fontAlignY=65&stroke=7DD3FC&strokeWidth=1)
-
+  <i>Building systems that are useful, scalable, and worth shipping.</i>
+  <br><br>
+  <b>⭐ Star my repos if you find them useful!</b>
 </div>
